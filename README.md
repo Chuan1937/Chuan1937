@@ -24,6 +24,6 @@
   <br>
   <img src="./chuanjun1.jpg" height="300" alt="Chuanjun 1" />
   &nbsp;&nbsp;&nbsp;
-  <img src="./chuanjun.jpg" height="300" alt="Chuanjun 2" />
+  <img src="./chuanjun2.jpg" height="300" alt="Chuanjun 2" />
 </div>
 
