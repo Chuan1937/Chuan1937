@@ -3,8 +3,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chuan1937&show_icons=true&theme=radical&hide_border=true" alt="Chuan1937's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chuan1937&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Chuan1937&show_icons=true&theme=tokyonight&hide_border=true" alt="Chuan1937's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chuan1937&layout=compact&theme=tokyonight&hide_border=true&hide=html" alt="Top Langs" />
 </div>
 
 ### 🚀 About Me
