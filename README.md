@@ -2,7 +2,7 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Profile%20Views-Visitor%20Count-440154?style=for-the-badge&logo=github&logoColor=fde725&labelColor=440154&color=7ad151" alt="Profile Views" />
   <br>
   <img src="https://komarev.com/ghpvc/?username=Chuan1937&style=for-the-badge&label=VISITS&color=7ad151" alt="Visit" />
