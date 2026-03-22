@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on microseismic location and AI applications in earthquake location.
 - 🌱 I’m currently learning seismology and PINNs.
-- 👯 I’m looking for a collaborator to participate in the [International Contest on Aftershock Forecasting](https://tianchi.aliyun.com/competition/entrance/532460).
+- 👯 I’m looking for a collaborator to participate in the [International Contest on Aftershock Forecasting](https://tianchi.aliyun.com/competition/entrance/532460). Team ID:1348560
 - 🤔 I’m a member of [GenericMappingTools](https://github.com/GenericMappingTools) and [gmt-china](https://github.com/gmt-china).
 - 💬 Ask me about phase picking and first-motion determination.
 - 📫 How to reach me: chuanjun1978@gmail.com
