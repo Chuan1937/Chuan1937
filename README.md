@@ -3,9 +3,9 @@
 ### 📊 GitHub Stats
 
 <div align="center">
+<img src="https://komarev.com/ghpvc/?username=Chuan1937&style=flat-square&color=7ad151" alt="Visit" />
   <img src="https://github-readme-stats.vercel.app/api?username=Chuan1937&show_icons=true&title_color=fde725&icon_color=7ad151&text_color=ffffff&bg_color=440154&hide_border=true" alt="Chuan1937's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chuan1937&layout=compact&title_color=fde725&text_color=ffffff&bg_color=440154&hide_border=true&hide=html" alt="Top Langs" />
-  <img src="https://komarev.com/ghpvc/?username=Chuan1937&style=flat-square&color=7ad151" alt="Profile views" />
 </div>
 
 ### 🚀 About Me
