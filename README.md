@@ -22,8 +22,8 @@
 <div align="center">
   <p><i>我们永远怀念<br>Forever in our hearts</i></p>
   <br>
-  <img src="./chuanjun1.jpg" height="300" alt="Chuanjun 1" />
-  &nbsp;&nbsp;&nbsp;
+  <!-- <img src="./chuanjun1.jpg" height="300" alt="Chuanjun 1" />
+  &nbsp;&nbsp;&nbsp; -->
   <img src="./chuanjun2.jpg" height="300" alt="Chuanjun 2" />
 </div>
 
