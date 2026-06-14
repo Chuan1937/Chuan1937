@@ -9,12 +9,23 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chuan1937&layout=compact&title_color=fde725&text_color=ffffff&bg_color=440154&hide_border=true&hide=html" alt="Top Langs" />
 </div>
 
+长城谣
+
+潘孜农词，刘雪庵曲
+
+万里长城万里长，长城外面是故乡，高粱肥，大豆香，遍地黄金少灾殃。
+
+自从大难平地起，奸淫掳掠苦难当。苦难当，奔他方，骨肉离散父母丧。
+
+没齿难忘仇和恨，日夜只想回故乡。大家拼命打回去，哪怕贼虏逞豪强。
+
+万里长城万里长，长城外面是故乡，四万万同胞心一样，新的长城万里长。
+
 ### 🚀 About Me
 
-- 🔭 I’m currently working on microseismic location and AI applications in earthquake location.
-- 🌱 I’m currently learning seismology and PINNs.
+- 🔭 I’m currently working on FWI.
+- 🌱 I’m currently learning FWI and PINNs.
 - 🤔 I’m a member of [GenericMappingTools](https://github.com/GenericMappingTools) and [gmt-china](https://github.com/gmt-china).
-- 💬 Ask me about phase picking and first-motion determination.
 - 📫 How to reach me: chuanjun1978@gmail.com
 - 😄 Dream: The great rejuvenation of the Chinese nation.
 
