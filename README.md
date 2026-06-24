@@ -1,14 +1,5 @@
 ## Hi there 👋
 
-### 📊 GitHub Stats
-
-<div>
-  <img src="https://komarev.com/ghpvc/?username=Chuan1937&style=for-the-badge&label=VISITS&color=7ad151" alt="Visit" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Chuan1937&show_icons=true&title_color=fde725&icon_color=7ad151&text_color=ffffff&bg_color=440154&hide_border=true" alt="Chuan1937's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chuan1937&layout=compact&title_color=fde725&text_color=ffffff&bg_color=440154&hide_border=true&hide=html" alt="Top Langs" />
-</div>
-
 <div align="center">
   <h3><i>长城谣</i></h3>
   <p><i>潘孜农词，刘雪庵曲</i></p>
@@ -21,6 +12,15 @@
     <br><br>
     万里长城万里长，长城外面是故乡，四万万同胞心一样，新的长城万里长。
   </i></p>
+</div>
+
+### 📊 GitHub Stats
+
+<div>
+  <img src="https://komarev.com/ghpvc/?username=Chuan1937&style=for-the-badge&label=VISITS&color=7ad151" alt="Visit" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Chuan1937&show_icons=true&title_color=fde725&icon_color=7ad151&text_color=ffffff&bg_color=440154&hide_border=true" alt="Chuan1937's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chuan1937&layout=compact&title_color=fde725&text_color=ffffff&bg_color=440154&hide_border=true&hide=html" alt="Top Langs" />
 </div>
 
 ### 🚀 About Me
